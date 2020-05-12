@@ -1,16 +1,13 @@
-# Post-Graduate Roadmap
+# DS Post Graduation Roadmap
 
 ## Introduction
 
-As you embark on your job search, it can be hard to establish routines that work
-for you. Part of the reason boot camp courses are successful is that it provides
-some degree structure to hold you accountable. Now that you are on your own, it
-is up to you to establish that structure for yourself.
+Congratulations on graduating from your program!!! It may not have been easy, but you persevered and are now ready to hit the job market. You will now prepare for the job search process and continue to develop your talents during your search.
 
-Each individual student is different, and striking a balance between searching
-for jobs and your personal life is a unique challenge. Based on successful
-students in the past, this lesson includes some suggestions for how to structure
-your time - both week to week and for the next few months.
+This roadmap will help you chart a course through the next six months as you embark on your journey
+As you embark on your job search, it can be hard to establish routines that work for you. Part of the reason boot camp courses are successful is that it provides some degree structure to hold you accountable. Now that you are on your own, it is up to you to establish that structure for yourself.
+
+Each individual student is different, and striking a balance between searching for jobs and your personal life is a unique challenge. Based on successful students in the past, this lesson includes some suggestions for how to structure your time - both week to week and for the next few months.
 
 ## Laying Out the Work Ahead
 
