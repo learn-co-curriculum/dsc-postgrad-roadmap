@@ -1,4 +1,4 @@
-# DS Post Graduation Roadmap
+# DS Post-Graduation Roadmap
 
 ## Introduction
 
