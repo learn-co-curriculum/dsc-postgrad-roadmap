@@ -4,77 +4,68 @@
 
 Congratulations on graduating from your program!!! It may not have been easy, but you persevered and have become a data scientist. Next, you will need to prepare to start your job search and continue to develop your talents.
 
-This roadmap will help you chart a course through the next six months as you embark on your journey. It can be hard to know what to do in the unstructured time that follows a bootcamp, especially with the regular social contact, routines, or accountability that supported you through the bootcamp. Now that you are a graduate, it is up to you to establish that structure for yourself. This lesson includes some recommendations for how to structure your time, both week-to-week and over the coming months.
+This roadmap will help you chart a course through the next six months as you embark on your journey. It can be hard to know what to do in the unstructured time that follows a bootcamp, especially without the regular social contact, routines, or accountability that supported you through it. Now that you are a graduate, it is up to you to establish that structure for yourself. This lesson includes some recommendations for how to structure your time week-to-week and over the coming months.
 
-## Laying Out the Work Ahead
+## Career Services Commitment
 
-Before anything else, we recommend taking a moment to account for the things you
-will be responsible for during this job search. For starters, there are
-specific requirements you will need to meet as part of the
-[Career Services Commitment][] that are required to remain eligible for
-Flatiron's Money-Back Guarantee. [The Weekly Job Search Activity][] lesson from
-our Career Prep track goes into greater detail on each requirement and includes a
-lot of useful advice. We recommend reading through that lesson before continuing.
+Expect to spend about half of your time each week on activities designed by Career Services to help you land a job. There are specific activities you will need to complete as part of the [Career Services Commitment][] to remain eligible for Flatiron's Money-Back Guarantee.
 
-To summarize, the Career Services Commitment requires you to complete the
-following each week:
+In short, you will need to do the following each week:
 
-- Make contact with at least eight (8) individuals, verified by first, last name
-  and title, at prospective employers within your field of study
-- Post at least one (1) written or video blog post
-- Post at least 5 GitHub contributions per week to your public GitHub profile
+- Contact at least eight people at prospective employers
+- Post at least one written or video blog post
+- Post at least five GitHub contributions to your public profile
 
-In addition to these, you will likely have your own list of tasks based on your
-personal growth and career goals. At the moment, this list might include some or
-all of the following:
+**Activity:** [The Weekly Job Search Activity][] lesson from our Career Prep track provides detail and advice for each requirement - complete that lesson now if you haven't already.
 
-- Polishing up and deploying your portfolio projects
+## Your To-Do List
+
+You likely have your own mental list of things you've been wanting to do after graduating. This could include...
+
+- Polishing your projects
 - Building a personal website
-- Practicing code interview challenges
-- Practicing general interview questions
-- Reviewing programming topics you want to be more comfortable with
-- Self-care!
+- Reviewing challenging topics
+- Reading a book
+- Doing some self-care
 
-Take some time to brainstorm and write out the tasks you would like to
-accomplish. Some of these will remain on your list throughout your job search,
-while others might be short-term tasks (i.e. you only need to build your personal
-website once). Note while tasks you _must_ accomplish every week like the CSC
-requirements. These take priority.
+You will likely find that this roadmap includes some of your to-do list items. Refer back to your to-do list when you create your weekly schedule to fill in any open blocks of time, or if you ever find yourself with extra time on your hands. You may find that you only have time for some items on your to-do list, and that is totally OK.
+
+**Activity:** Write down all of the things you would like to accomplish during this period. Here is a template to help you get started: [Post-Graduation To-Do List](https://docs.google.com/spreadsheets/d/1AYQs00F740TD8QAYbCub0AJACLsymBXZIIKk2CBLO5A/copy).
+
+## Post-Graduation Upskilling
+
+We have created a four-week upskilling course to help you continue to develop your Data Science skills after graduation. ***ADD MORE***
 
 ## Establish a Weekly Routine
 
-With your list of tasks, you can now plan a routine for yourself. Some students
-find it helpful to use a Google calendar to do this - you can block out time,
-configure reminders, and set up reoccurring weekly events to help stay on track.
+Establishing a weekly routine will help you tremendously in your job search. Your routine will structure your time, remove the need to make new plans each week, and ensure you are completing your required tasks. You can even use your routine strategically to increase your productivity.
 
-Map out a routine that works best for you. We _highly recommend_ front-loading
-priority tasks, especially if you know that you are prone to procrastination. It
-feels good to get the required tasks out of the way early. It feels bad to be
-stressing over these tasks late in the week. Beyond that, if you get required
-tasks out of the way, you may find more time to work on other beneficial tasks
-that would otherwise be delayed.
+Here are a few recommendations for creating your weekly routine:
 
-Here is an example of what this weekly calendar might look like:
+- Plan to do the things you might not want to do early in the day or week. It will feel good to get these things out of the way early, and can help you avoid anxiety and procrastination. This will enable you to be happier and more productive throughout the week.
 
-| Monday        | Tuesday           | Wednesday  | Thursday | Friday |
+- Make rough estimates of how much time you will to spend on each task. This will make sure that you are allocating time as needed for all the things you want to accomplish. Your estimates may not end up being correct, but that is just an opportunity to refine your routine in the future.
+
+- If a task will take more than one day, divide it into chunks and work on it across consecutive days. Dividing it into chunks will make it feel more manageable. You will also be more productive if you make progress on it every day because you will be thinking about it consistently and it will be easier to pick up where you left off.
+
+- Create blocks of time and fill in details later. It's great to have time reserved to research your blog post, but you won't know what that research will actually entail until you've decided what topic you want to cover and in what depth.
+
+- Build buffer and breaks into your schedule each day. Unexpected things will come up, so make space to handle them so you don't fall behind: emails, tech problems, chats with friends, etc. Most people also can't work for 9 hours straight - find a pattern of breaks, both long and short, that keeps you energized and engaged.
+
+- Establish boundaries for your work time. Set a firm start and end time for each day so that you can properly disengage, rest, and re-engage. Identify days (probably weekends) when you won't do any job-related work at all. If you feel the urge to do some work task outside your prescribed time, write it down and use it as motivation when you do get back to work.
+
+Here is an example of what a weekly routine might look like:
+
+| Monday | Tuesday | Wednesday | Thursday | Friday |
 | :---: | :---: | :---: | :---: | :---: |
-| Contact 4 individuals at prospective employers | | Contact 4 individuals at prospective employers | | |
-| Start researching blog post topic | Start writing blog post | Finish blog post and publicize | | |
-| | | Commit to personal GitHub projects | Commit to personal GitHub projects | Commit to personal GitHub projects |
+| Contact 2 employers (1 hour) | Contact 2 employers (1 hour) | Contact 2 employers (1 hour) | Contact 2 employers (1 hour) | |
+| Research blog topic (2 hours) | Start writing blog post (2 hours) | Finish blog post (2 hours) | Make 3 commits (2 hours) | Make 3 commits (2 hours) |
+| Upskilling (4 hours) | Upskilling (4 hours) | Upskilling (4 hours) | Upskilling (4 hours)  | Upskilling (4 hours) |
 
-Or, if you're feeling ambitious you might want to front-load even more:
 
-| Monday        | Tuesday           | Wednesday  | Thursday | Friday |
-| :---: | :---: | :---: | :---: | :---: |
-| Contact 4 individuals at prospective employers | Contact 4 individuals at prospective employers | | | |
-| Start writing blog post | Finish blog post| | | |
-| Complete required GitHub commits | | | | |
-| | | Work on personal projects | Work on personal projects | Work on personal projects |
+One important strategy with any new routine is to adapt it as you need. You will only learn about how well a routine supports your progress by trying it out and observing the results. If you find that you are unable to complete everything as you planned, don't beat yourself about it. Rather, take it as an opportunity to reflect on what got in your way, and make a plan to address it moving forward. For example, if you didn't reach out to the four employers you planned to on Monday, you might realize it's because you tend to spend a lot of time crafting each communication, and you ran out of steam after the second one. To address this, you could either find more efficient ways to craft your communications or spread them out more evenly over the week.
 
-Find a schedule that is realistic for you and your personal life, but do your
-best to stick with it. Having a set routine has many benefits. It establishes
-structure, removes the need to plan your time, and helps ensure you are getting
-required tasks out of the way.
+**Activity:** Create a weekly routine and enter it into your calendar of choice. We recommend using [Google Calendar](https://calendar.google.com/), but feel free to use another program. [Set up recurring events](https://support.google.com/calendar/answer/37115?co=GENIE.Platform%3DDesktop&hl=en) so activities occur at a regular time without having to copy-and-paste, and you can edit individual occurrences as needed. You can even [add reminders](https://support.google.com/calendar/answer/6285327?hl=en) to help you avoid forgetting.
 
 ## Find Overlapping Tasks
 
