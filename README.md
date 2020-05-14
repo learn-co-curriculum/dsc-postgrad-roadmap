@@ -60,8 +60,8 @@ Here is an example of what a weekly routine might look like:
 | :---: | :---: | :---: | :---: | :---: |
 | Contact 2 employers (1 hour) | Contact 2 employers (1 hour) | Contact 2 employers (1 hour) | Contact 2 employers (1 hour) | |
 | Research blog topic (2 hours) | Start writing blog post (2 hours) | Finish blog post (2 hours) | Make 3 commits (2 hours) | Make 3 commits (2 hours) |
-| Upskilling (4 hours) | Upskilling (4 hours) | Upskilling (4 hours) | Upskilling (4 hours)  | Upskilling (4 hours) |
-
+| Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) |
+| Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) |
 
 One important strategy with any new routine is to adapt it as you need. You will only learn about how well a routine supports your progress by trying it out and observing the results. If you find that you are unable to complete everything as you planned, don't beat yourself about it. Rather, take it as an opportunity to reflect on what got in your way, and make a plan to address it moving forward. For example, if you didn't reach out to the four employers you planned to on Monday, you might realize it's because you tend to spend a lot of time crafting each communication, and you ran out of steam after the second one. To address this, you could either find more efficient ways to craft your communications or spread them out more evenly over the week.
 
