@@ -58,7 +58,9 @@ Refer back to your to-do list when you create your weekly schedule to fill in an
 
 Establishing a weekly routine will help you tremendously in your job search. Your routine will structure your time, remove the need to make new plans each week, and ensure you are completing your required tasks. You can even use your routine strategically to increase your productivity.
 
-Here are a few recommendations for your weekly routine:
+### Recommendations for Your Routine
+
+Here are our recommendations for your weekly routine:
 
 - **Plan to do any things you don't want to do early in the day or week.** It will feel good to get these things out of the way early, and can help you avoid anxiety and procrastination. This will enable you to be happier and more productive throughout the week.
 
@@ -74,16 +76,19 @@ Here are a few recommendations for your weekly routine:
 
 -  **Adapt it as you go.** You will only learn about how well a routine supports your progress by trying it out and observing the results. If you find that you are unable to complete everything as you planned, don't beat yourself about it. Rather, take it as an opportunity to reflect on what got in your way, and make a plan to address it moving forward.
 
-### Calendar Your Routine
+### Sample Routine
 
 Here is an example of what a weekly routine might look like:
 
-| Monday | Tuesday | Wednesday | Thursday | Friday |
-| :---: | :---: | :---: | :---: | :---: |
-| Contact 2 employers (2 hours) | Contact 2 employers (2 hours) | Contact 2 employers (2 hours) | Contact 2 employers (2 hours) | Do some reading (2 hours) |
-| Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) |
-| Research blog topic (2 hours) | Start writing blog post (2 hours) | Finish blog post (2 hours) | Make 3 commits (2 hours) | Make 3 commits (2 hours) |
-| Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) |
+| Time | Monday | Tuesday | Wednesday | Thursday | Friday |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Early Morning | Contact 2 employers (2 hours) | Contact 2 employers (2 hours) | Contact 2 employers (2 hours) | Contact 2 employers (2 hours) | Do some reading (2 hours) |
+| Late Morning | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) |
+| Midday | Lunch (1 hour) | Lunch (1 hour) | Lunch (1 hour) | Lunch (1 hour) | Lunch (1 hour) |
+| Early Afternoon | Research blog topic (2 hours) | Start writing blog post (2 hours) | Finish blog post (2 hours) | Make 3 commits (2 hours) | Make 3 commits (2 hours) |
+| Late Afternoon | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) |
+
+### Calendar Your Routine
 
 **Activity:** Create a weekly routine and enter it into your calendar of choice. We recommend using [Google Calendar][], but feel free to use another program. [Set up recurring events][] so activities occur at a regular time without having to copy-and-paste, and you can edit individual occurrences as needed. You can even [add reminders][] to help you avoid forgetting.
 
