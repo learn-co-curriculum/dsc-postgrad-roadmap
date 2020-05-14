@@ -6,90 +6,92 @@ Congratulations on graduating from your program!!! It may not have been easy, bu
 
 This roadmap will help you chart a course through the next six months as you embark on your journey. It can be hard to know what to do in the unstructured time that follows a bootcamp, especially without the regular social contact, routines, or accountability that supported you through it. Now that you are a graduate, it is up to you to establish that structure for yourself. This lesson includes some recommendations for how to structure your time week-to-week and over the coming months.
 
-## Career Services Commitment
+## Identify Your tasks
 
-Expect to spend about half of your time each week on activities designed by Career Services to help you land a job. There are specific activities you will need to complete as part of the [Career Services Commitment][] to remain eligible for Flatiron's Money-Back Guarantee.
+Think about dividing your time up among tasks in three buckets, roughly in order of priority:
 
-In short, you will need to do the following each week:
+1. Career Services Commitments
+2. Post-Graduation Upskilling
+3. Other Personal Goals
+
+### Career Services Commitment
+
+Career Services has identified a set of required activities to help you land a job. You will need to complete these activities as part of the [Career Services Commitment][] to remain eligible for Flatiron's Money-Back Guarantee. In short, you will need to do the following each week:
 
 - Contact at least eight people at prospective employers
 - Post at least one written or video blog post
 - Post at least five GitHub contributions to your public profile
 
-**Activity:** [The Weekly Job Search Activity][] lesson from our Career Prep track provides detail and advice for each requirement - complete that lesson now if you haven't already.
+Expect to spend about 20 hours each week on these activities - we recommend spending 4 hours per day on them.
 
-## Your To-Do List
+**Activity:** The [Weekly Job Search Activity][] lesson from our Career Prep track provides detail and advice for each requirement - complete that lesson now if you haven't already.
 
-You likely have your own mental list of things you've been wanting to do after graduating. This could include...
+### Post-Graduation Upskilling
 
-- Polishing your projects
+Learning to be a data scientist is a process that never ends. There are more methods and technologies than any one individual can ever learn, and new ones emerge every day. It is up to you to keep developing your skills, both while job hunting and once you've landed your first job.
+
+To help get you started, we have created this four-week upskilling track to complete post-graduation. This course will help you continue to develop your Data Science portfolio and skills, focusing on the following topics:
+
+- Polishing your projects on GitHub
 - Building a personal website
-- Reviewing challenging topics
-- Reading a book
+- SQL
+- Tableau
+- R
+
+This content is designed to take about 20 hours per week - we recommend spending 4 hours per day on this content. You may find that it takes more or less time than this based on your skill level, which is OK. Try working on it every day to keep your skills fresh. Once you've finished this content, it will be up to you to find ways to keep developing your skills.
+
+**Activity:** The [Post-Graduation Upskilling Overview](***TO BE CREATED***) lesson in this track provides more detail about the scope and sequence of this content - complete that lesson now if you haven't already.
+
+### Your To-Do List
+
+You likely have your own mental list of things you've been wanting to do after graduating, beyond developing your data skills. This could include...
+
+- Building a social media presence
+- Reading a book in your field of interest
 - Doing some self-care
 
-You will likely find that this roadmap includes some of your to-do list items. Refer back to your to-do list when you create your weekly schedule to fill in any open blocks of time, or if you ever find yourself with extra time on your hands. You may find that you only have time for some items on your to-do list, and that is totally OK.
+Refer back to your to-do list when you create your weekly schedule to fill in any open blocks of time, or if you ever find yourself with extra time on your hands. You may find that you only have time for some items on your to-do list, and that is totally OK.
 
-**Activity:** Write down all of the things you would like to accomplish during this period. Here is a template to help you get started: [Post-Graduation To-Do List](https://docs.google.com/spreadsheets/d/1AYQs00F740TD8QAYbCub0AJACLsymBXZIIKk2CBLO5A/copy).
-
-## Post-Graduation Upskilling
-
-We have created a four-week upskilling course to help you continue to develop your Data Science skills after graduation. ***ADD MORE***
+**Activity:** Write down all of the things you would like to accomplish during this period. Here is a template to help you get started: [Post-Graduation To-Do List][].
 
 ## Establish a Weekly Routine
 
 Establishing a weekly routine will help you tremendously in your job search. Your routine will structure your time, remove the need to make new plans each week, and ensure you are completing your required tasks. You can even use your routine strategically to increase your productivity.
 
-Here are a few recommendations for creating your weekly routine:
+Here are a few recommendations for your weekly routine:
 
-- Plan to do the things you might not want to do early in the day or week. It will feel good to get these things out of the way early, and can help you avoid anxiety and procrastination. This will enable you to be happier and more productive throughout the week.
+- **Plan to do any things you don't want to do early in the day or week.** It will feel good to get these things out of the way early, and can help you avoid anxiety and procrastination. This will enable you to be happier and more productive throughout the week.
 
-- Make rough estimates of how much time you will to spend on each task. This will make sure that you are allocating time as needed for all the things you want to accomplish. Your estimates may not end up being correct, but that is just an opportunity to refine your routine in the future.
+- **Make rough estimates of how much time you will to spend on each task.** This will make sure that you are allocating the time needed for everything you want to accomplish. Your estimates may not end up correct - take it as an opportunity to refine your routine in the future.
 
-- If a task will take more than one day, divide it into chunks and work on it across consecutive days. Dividing it into chunks will make it feel more manageable. You will also be more productive if you make progress on it every day because you will be thinking about it consistently and it will be easier to pick up where you left off.
+- **If a task will take many hours, divide it into chunks across consecutive days.** Dividing it up will make it feel more manageable and will allow you to more easily move around tasks based on your time and interest. You will also be more productive if you make progress on it every day because you will be thinking about it consistently and it will be easier to pick up where you left off.
 
-- Create blocks of time and fill in details later. It's great to have time reserved to research your blog post, but you won't know what that research will actually entail until you've decided what topic you want to cover and in what depth.
+- **Fill in details later.** It's great to have time reserved to research your blog post, but you won't know what that research will actually entail until you've decided what topic you want to cover and in what depth.
 
-- Build buffer and breaks into your schedule each day. Unexpected things will come up, so make space to handle them so you don't fall behind: emails, tech problems, chats with friends, etc. Most people also can't work for 9 hours straight - find a pattern of breaks, both long and short, that keeps you energized and engaged.
+- **Build buffer and breaks into your daily schedule.** Unexpected things will come up, so make space to handle them so you don't fall behind: emails, tech problems, chats with friends, etc. Most people also can't work for 9 hours straight - find a pattern of breaks, both long and short, that keeps you energized and engaged.
 
-- Establish boundaries for your work time. Set a firm start and end time for each day so that you can properly disengage, rest, and re-engage. Identify days (probably weekends) when you won't do any job-related work at all. If you feel the urge to do some work task outside your prescribed time, write it down and use it as motivation when you do get back to work.
+- **Establish boundaries for your work time.** Set a firm start and end time for each day so that you can properly disengage, rest, and re-engage. Identify days (probably weekends) when you won't do any job-related work at all. If you feel the urge to do some work task outside your prescribed time, write it down and use it as motivation when you do get back to work.
+
+-  **Adapt it as you go.** You will only learn about how well a routine supports your progress by trying it out and observing the results. If you find that you are unable to complete everything as you planned, don't beat yourself about it. Rather, take it as an opportunity to reflect on what got in your way, and make a plan to address it moving forward.
+
+### Calendar Your Routine
 
 Here is an example of what a weekly routine might look like:
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :---: | :---: | :---: | :---: | :---: |
-| Contact 2 employers (1 hour) | Contact 2 employers (1 hour) | Contact 2 employers (1 hour) | Contact 2 employers (1 hour) | |
-| Research blog topic (2 hours) | Start writing blog post (2 hours) | Finish blog post (2 hours) | Make 3 commits (2 hours) | Make 3 commits (2 hours) |
+| Contact 2 employers (2 hours) | Contact 2 employers (2 hours) | Contact 2 employers (2 hours) | Contact 2 employers (2 hours) | Do some reading (2 hours) |
 | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) | Upskilling Block 1 (2 hours) |
+| Research blog topic (2 hours) | Start writing blog post (2 hours) | Finish blog post (2 hours) | Make 3 commits (2 hours) | Make 3 commits (2 hours) |
 | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) | Upskilling Block 2 (2 hours) |
 
-One important strategy with any new routine is to adapt it as you need. You will only learn about how well a routine supports your progress by trying it out and observing the results. If you find that you are unable to complete everything as you planned, don't beat yourself about it. Rather, take it as an opportunity to reflect on what got in your way, and make a plan to address it moving forward. For example, if you didn't reach out to the four employers you planned to on Monday, you might realize it's because you tend to spend a lot of time crafting each communication, and you ran out of steam after the second one. To address this, you could either find more efficient ways to craft your communications or spread them out more evenly over the week.
+**Activity:** Create a weekly routine and enter it into your calendar of choice. We recommend using [Google Calendar][], but feel free to use another program. [Set up recurring events][] so activities occur at a regular time without having to copy-and-paste, and you can edit individual occurrences as needed. You can even [add reminders][] to help you avoid forgetting.
 
-**Activity:** Create a weekly routine and enter it into your calendar of choice. We recommend using [Google Calendar](https://calendar.google.com/), but feel free to use another program. [Set up recurring events](https://support.google.com/calendar/answer/37115?co=GENIE.Platform%3DDesktop&hl=en) so activities occur at a regular time without having to copy-and-paste, and you can edit individual occurrences as needed. You can even [add reminders](https://support.google.com/calendar/answer/6285327?hl=en) to help you avoid forgetting.
+### Relate Tasks to Each Other
 
-## Find Overlapping Tasks
+To help streamline and focus your work, try to find ways to align your tasks. For instance, the improvements you make to your porfolio when doing the Upskilling content may count toward your required GitHub commits. Perhaps you've been wanting to read a certain article - use that as a jumping off point for your next blog post. Or maybe your most recent blog post would be great to share with a specific employer to get them interested in you. Finding these synergies will help you work more efficiently and produce better results.
 
-The idea of getting so many required tasks complete every week while also
-further developing your skills can feel daunting. Blogging, for instance, is not
-something that everyone is entirely comfortable with, and even coming up with an
-topic to write a blog post about can be difficult.
-
-To help simplify the work, try to find ways to relate your required tasks and
-complete them together. For instance, you need to make commits to your
-repositories - these could be improvements you are implementing in your porfolio
-projects. This way, you're improving the projects you want to showcase to
-employers while fulfilling the Career Services commitment.
-
-Can you also _blog_ about the project you're working on? Maybe you are grappling
-with a particular concept you're trying to learn and apply. Can you explain the
-challenge in writing?
-
-Another example, you might be looking at specific job openings and companies
-you'd like to apply to. How can you shape your projects to look good for
-individuals at these companies? Can you preemptively write a blog post about a
-topic you want to show off to _these_ employers? If so, you'll be giving
-yourself a talking point to bring up to them and will be more prepared to
-discuss the topic if it comes up.
+**Activity:** Identify two tasks coming up for you in the next week that could be made to align, and note this alignment in the blocks in your calendar. Alternatively, identify one To-DO List item that would align well with the tasks you've already scheduled, and add time to do it to your schedule.
 
 ## Mapping Out the Road Ahead
 
@@ -103,10 +105,6 @@ When writing out a roadmap for the next six months, don't think about the time a
 one large chunk of time. Instead, think about the time in milestones - where
 would you like to be in _one month?_ What do you feel is realistically achievable
 in that time?
-
-Your roadmap will be unique to you, and you will likely revise it repeatedly
-over time. Still, having a physical copy can help you to review where you are
-against your planned goals.
 
 To help you get started, below are some suggested milestones based on the Career
 Services Commitment and some of the content in this track. Use this as a
@@ -202,4 +200,8 @@ you've already proven you can do that. The greatest challenge is **developing
 the habits you will need to continually work towards your goals**.
 
 [Career Services Commitment]: https://flatironschool.com/career-services-commitment/
-[The Weekly Job Search Activity]: https://github.com/learn-co-curriculum/careers-csc-weekly-activity
+[Weekly Job Search Activity]: https://github.com/learn-co-curriculum/careers-csc-weekly-activity
+[Post-Graduation To-Do List]: https://docs.google.com/spreadsheets/d/1AYQs00F740TD8QAYbCub0AJACLsymBXZIIKk2CBLO5A/copy
+[Google Calendar]: https://calendar.google.com/
+[Set up recuring events]: https://support.google.com/calendar/answer/37115?co=GENIE.Platform%3DDesktop&hl=en
+[add reminders]: https://support.google.com/calendar/answer/6285327?hl=en
