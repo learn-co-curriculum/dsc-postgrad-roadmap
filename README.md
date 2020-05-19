@@ -10,9 +10,9 @@ This roadmap will help you chart a course through the next six months as you emb
 
 Think about dividing your time up among tasks in three buckets, roughly in order of priority:
 
-1. Career Services Commitments
+1. Career Services Commitment
 2. Upskilling & Portfoio Development
-3. Other Personal Goals
+3. Your To-Do List
 
 ### Career Services Commitment
 
