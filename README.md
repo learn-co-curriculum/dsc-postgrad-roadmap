@@ -97,11 +97,11 @@ By establishing a routine and consistenty completing many small tasks, you will 
 | Month | Employer Contacts | Blog Posts | GitHub Commits | Upskilling & Portfolio |
 | :---: | :---: | :---: | :---: | :---: |
 | Month #1 | 32+ contacts made | 4+ blogs posted | 20+ GitHub commits pushed | Post-Grad Upskilling Track complete |
-| Month #2 | 64+ contacts made | 8+ blogs posted | 40+ GitHub commits pushed | Polish remaining projects from Mods 1-4 |
-| Month #3 | 96+ contacts made | 12+ blogs posted | 60+ GitHub commits pushed | Polish Capstone project |
-| Month #4 | 128+ contacts made | 16+ blogs posted | 80+ GitHub commits pushed | New Portfolio projects |
-| Month #5 | 160+ contacts made | 20+ blogs posted | 100+ GitHub commits pushed | New Portfolio projects |
-| Month #6 | 192+ contacts made | 24+ blogs posted | 120+ GitHub commits pushed | New Portfolio projects |
+| Month #2 | 64+ contacts made | 8+ blogs posted | 40+ GitHub commits pushed | Polish remaining projects from Mods 1-4, Begin new project search |
+| Month #3 | 96+ contacts made | 12+ blogs posted | 60+ GitHub commits pushed | Polish Capstone project, Finish new project search |
+| Month #4 | 128+ contacts made | 16+ blogs posted | 80+ GitHub commits pushed | Work on new project |
+| Month #5 | 160+ contacts made | 20+ blogs posted | 100+ GitHub commits pushed | Work on new project |
+| Month #6 | 192+ contacts made | 24+ blogs posted | 120+ GitHub commits pushed | Work on new project |
 
 ## Guidance for Upskilling and Portfolio Development
 
@@ -119,19 +119,19 @@ This upskilling track will help you continue to develop your Data Science skills
 
 This content is designed to take about 20 hours per week for 4 weeks, but your mileage may vary. It may take you more or less time to complete this, based on your comfort with the material and on your ability to work on it consistently. If you find that you have not completed it by the end of the month, that is totally OK - continue to work on it until you are able to finish.
 
-**Activity:** The [Post-Graduation Upskilling Overview](***TO BE CREATED***) lesson in this track provides more detail about the scope and sequence of this content - complete that lesson now if you haven't already.
+**Activity:** The [Post-Graduation Upskilling Overview](***TO BE CREATED***) lesson in this track provides more detail about the scope and sequence of this content - complete this lesson now, if you haven't already.
 
 ### Polish Remaining Projects
 
 Once you've completed the Post-Graduation Upskilling Track, you will be well-equipped to polish your projects from the bootcamp. In that track, you will polish one module project - we recommend that you proceed to polish the rest of your module projects, followed by your Capstone project. This process can incorporate other things you've learnt in the track, such as Tableau or SQL.
 
-**Activity:** The [How to Polish a Data Science Project](***TO BE CREATED***) lesson in this track provides more detail about how to approach polishing a project you've created - complete that lesson once you've finished the rest of the content in this track.
+**Activity:** The [How to Polish a Data Science Project](***TO BE CREATED***) lesson in this track provides more detail about how to approach polishing a project you've created - complete this lesson once you've finished the rest of the content in this track.
 
-### New Portfolio Projects
+### New Projects
 
-Once you've finished polishing up all your existing projects, you will probably be eager to tackle a new one to add to your portfolio. We recommend that you focus on one project at a time, but you might be able to work on two projects simultaneously depending on the project scope, your comfort with multi-tasking, and your availability.
+As you make progress polishing up all your existing projects, you will probably be eager to tackle a new one. The sooner you start thinking about starting a new project, the better. We recommend that you focus on one new project at a time, but you might be able to work on two new projects simultaneously depending on the project scope, your comfort with multi-tasking, and your availability.
 
-**Activity:** The [How to Start a New DS Portfolio Project][] lesson in this track provides more detail about how to approach choosing and tackling a new project for your portfolio - complete that lesson once you've finished the rest of the content in this track.
+**Activity:** The [How to Start a New DS Project][] lesson in this track provides more detail about how to approach choosing and tackling a new project - complete this lesson once you've finished the rest of the content in this track.
 
 ## Conclusion
 
@@ -143,6 +143,4 @@ You have shown that you can develop your skills by graduating from the Data Scie
 [Google Calendar]: https://calendar.google.com/
 [Set up recurring events]: https://support.google.com/calendar/answer/37115?co=GENIE.Platform%3DDesktop&hl=en
 [add reminders]: https://support.google.com/calendar/answer/6285327?hl=en
-[Kaggle]: https://www.kaggle.com/
-[Upwork]: https://www.upwork.com/
-[How to Start a New DS Portfolio Project]: https://github.com/learn-co-curriculum/dsc-postgrad-new-project
+[How to Start a New DS Project]: https://github.com/learn-co-curriculum/dsc-postgrad-new-project
