@@ -10,9 +10,9 @@ This roadmap will help you chart a course through the next six months as you emb
 
 Think about dividing your time up among tasks in three buckets, roughly in order of priority:
 
-1. Career Services Commitments
+1. Career Services Commitment
 2. Upskilling & Portfoio Development
-3. Other Personal Goals
+3. Your To-Do List
 
 ### Career Services Commitment
 
@@ -141,7 +141,7 @@ You have shown that you can develop your skills by graduating from the Data Scie
 [Weekly Job Search Activity]: https://github.com/learn-co-curriculum/careers-csc-weekly-activity
 [Post-Graduation To-Do List]: https://docs.google.com/spreadsheets/d/1AYQs00F740TD8QAYbCub0AJACLsymBXZIIKk2CBLO5A/copy
 [Google Calendar]: https://calendar.google.com/
-[Set up recuring events]: https://support.google.com/calendar/answer/37115?co=GENIE.Platform%3DDesktop&hl=en
+[Set up recurring events]: https://support.google.com/calendar/answer/37115?co=GENIE.Platform%3DDesktop&hl=en
 [add reminders]: https://support.google.com/calendar/answer/6285327?hl=en
 [Kaggle]: https://www.kaggle.com/
 [Upwork]: https://www.upwork.com/
