@@ -6,7 +6,7 @@ Congratulations on graduating from your program!!! It may not have been easy, bu
 
 This roadmap will help you chart a course through the next six months as you embark on your journey. It can be hard to know what to do in the unstructured time that follows a bootcamp, especially without the regular social contact, routines, or accountability that supported you through it. Now that you are a graduate, it is up to you to establish that structure for yourself. This lesson includes some recommendations for how to structure your time week-to-week and over the coming months.
 
-## Identify Your tasks
+## Identify Your Tasks
 
 Think about dividing your time up among tasks in three buckets, roughly in order of priority:
 
@@ -127,22 +127,11 @@ Once you've completed the Post-Graduation Upskilling Track, you will be well-equ
 
 **Activity:** The [How to Polish a Data Science Project](***TO BE CREATED***) lesson in this track provides more detail about how to approach polishing a project you've created - complete that lesson once you've finished the rest of the content in this track.
 
-### New Portfolio projects
+### New Portfolio Projects
 
-Once you've finished polishing up all your existing projects, you will probably be eager to tackle a new one to add to your portfolio. There are four types of projects for you to consider:
+Once you've finished polishing up all your existing projects, you will probably be eager to tackle a new one to add to your portfolio. We recommend that you focus on one project at a time, but you might be able to work on two projects simultaneously depending on the project scope, your comfort with multi-tasking, and your availability.
 
-- **Community projects** let you use your data science skills in service of a real-world project that a specific community has identified as a need. These projects may not be well-defined or funded, but can help motivate you because you know there is a constituent eager for your work. These can be especially rewarding when they are done in service of a cause you care about.
-- **[Kaggle][] projects** let you engage in data science in a community of peers who support you via friendly competition. We recommend working on an active competition and finding teammates who will collaborate with you, either from your cohort or through Kaggle. Placing highly in a Kaggle competition is something you can put on your resume and can even provide a cash reward!
-- **Consulting projects** let you earn some income while working on an real-world project. You may come across consulting opportunities when networking or through freelancing sites, such as [Upwork][]. While the prospect of making money while improving your skills and building your portfolio is enticing, there are a number of complications to consider:
-  - Much of consulting work is managing your client and their expectations - be very clear about what you are able to provide and on what timeline.
-  - Don't let them suck up all of your time - you should reserve at least half of your time for pursuing your proper job search and meeting your Career Sevices commitments.
-  - Make sure the project is the right fit for you - you don't want something boring that doesn't develop your skills or something beyond what you are realistically able to do.
-  - Before you start, make sure that the client is OK with you adding the project to your portfolio to share with other employers.
-- **Personal projects** are projects you pursue simply because they are of interest to you. They may or may not translate into a specific product or be of value to a specific stakeholder. However, these projects can be very motivating because they can be anything you want! They also can be great additions to your portfolio to demonstrate your unique talents and interests.
-
-We recommend that you focus on one project at a time, but you might be able to work on two projects simultaneously depending on the project scope, your comfort with multi-tasking, and your availability.
-
-**Activity:** The [How to Start a New Portfolio Project](***TO BE CREATED***) lesson in this track provides more detail about how to approach choosing and tackling a new project for your portfolio - complete that lesson once you've finished the rest of the content in this track.
+**Activity:** The [How to Start a New DS Portfolio Project][] lesson in this track provides more detail about how to approach choosing and tackling a new project for your portfolio - complete that lesson once you've finished the rest of the content in this track.
 
 ## Conclusion
 
@@ -156,3 +145,4 @@ You have shown that you can develop your skills by graduating from the Data Scie
 [add reminders]: https://support.google.com/calendar/answer/6285327?hl=en
 [Kaggle]: https://www.kaggle.com/
 [Upwork]: https://www.upwork.com/
+[How to Start a New DS Portfolio Project]: https://github.com/learn-co-curriculum/dsc-postgrad-new-project
