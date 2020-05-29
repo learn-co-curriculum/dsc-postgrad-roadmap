@@ -4,14 +4,14 @@
 
 Congratulations on graduating from your program!!! It may not have been easy, but you persevered and have become a data scientist. Next, you will need to prepare to start your job search and continue to develop your talents.
 
-This roadmap will help you chart a course through the next six months as you embark on your journey. It can be hard to know what to do in the unstructured time that follows a bootcamp, especially without the regular social contact, routines, or accountability that supported you through it. Now that you are a graduate, it is up to you to establish that structure for yourself. This lesson includes some recommendations for how to structure your time week-to-week and over the coming months.
+This roadmap will help you chart a course through the next six months as you embark on your journey. It can be hard to know what to do in the unstructured time that follows an intensive program, especially without the regular social contact, routines, or accountability that supported you through it. Now that you are a graduate, it is up to you to establish that structure for yourself. This lesson includes some recommendations for how to structure your time week-to-week and over the coming months.
 
 ## Identify Your Tasks
 
 Think about dividing your time up among tasks in three buckets, roughly in order of priority:
 
 1. Career Services Commitment
-2. Upskilling & Portfoio Development
+2. Upskilling & Portfolio Development
 3. Your To-Do List
 
 ### Career Services Commitment
@@ -30,7 +30,7 @@ Expect to spend about 20 hours each week on these activities - we recommend spen
 
 Learning to be a data scientist is a process that never ends. There are more methods and technologies than any one individual can ever learn, and new ones emerge every day. It is up to you to keep developing your skills, both while job hunting and once you've landed your first job.
 
-This roadmap provides guidance about how to continue developing your skills and your portfolio demonstrating these skills. We recommend spending a total of 20 hours per week, or 4 hours per weekday, on upskilling and portfolio development during your job search. This will help keep your skils fresh and build up your self-development habit.
+This roadmap provides guidance about how to continue developing your skills and your portfolio demonstrating these skills. We recommend spending a total of 20 hours per week, or 4 hours per weekday, on upskilling and portfolio development during your job search. This will help keep your skills fresh and build up your self-development habit.
 
 ### Your To-Do List
 
@@ -86,13 +86,13 @@ It might feel unnecessary, but putting your routine in a calendar will make you 
 
 ### Align Your Upcoming Tasks
 
-To help streamline and focus your work, try to find ways to align your tasks. For instance, the improvements you make to your porfolio when upskilling may count toward your required GitHub commits. Perhaps you've been wanting to read a certain article - use that as a jumping-off point for your next blog post. Or maybe your most recent blog post would be great to share with an employer to get them interested in you. Finding these synergies will help you work more efficiently and produce better results.
+To help streamline and focus your work, try to find ways to align your tasks. For instance, the improvements you make to your portfolio when upskilling may count toward your required GitHub commits. Perhaps you've been wanting to read a certain article - use that as a jumping-off point for your next blog post. Or maybe your most recent blog post would be great to share with an employer to get them interested in you. Finding these synergies will help you work more efficiently and produce better results.
 
 **Activity:** Identify two tasks coming up for you in the next week that could be made to align, and note this alignment in the events in your calendar. Alternatively, identify one To-Do List item that would align well with the tasks you've already scheduled, and add time to do it to your schedule next week.
 
 ## Month-By-Month Overview
 
-By establishing a routine and consistenty completing many small tasks, you will build an impressive professional network, blog, GitHub profile, and data science portfolio.  The calendar below shows how maintaining your routine, meeting your commitments, and continuing to upskill and improve your portfolio will accumulate month-over-month. It also lays out the upskilling and portfolio development that will enable you to land a job in the next six months.
+By establishing a routine and consistently completing many small tasks, you will build an impressive professional network, blog, GitHub profile, and data science portfolio.  The calendar below shows how maintaining your routine, meeting your commitments, and continuing to upskill and improve your portfolio will accumulate month-over-month. It also lays out the upskilling and portfolio development that will enable you to land a job in the next six months.
 
 | Month | Employer Contacts | Blog Posts | GitHub Commits | Upskilling & Portfolio |
 | :---: | :---: | :---: | :---: | :---: |
@@ -119,13 +119,19 @@ This upskilling track will help you continue to develop your Data Science skills
 
 This content is designed to take about 20 hours per week for 4 weeks, but your mileage may vary. It may take you more or less time to complete this, based on your comfort with the material and on your ability to work on it consistently. If you find that you have not completed it by the end of the month, that is totally OK - continue to work on it until you are able to finish.
 
-**Activity:** The [Post-Graduation Upskilling Overview](***TO BE CREATED***) lesson in this track provides more detail about the scope and sequence of this content - complete this lesson now, if you haven't already.
+**Activity:** The [Post-Graduation Upskilling Overview][] lesson in this track provides more detail about the scope and sequence of this content - complete this lesson now, if you haven't already.
 
 ### Polish Remaining Projects
 
-Once you've completed the Post-Graduation Upskilling Track, you will be well-equipped to polish your projects from the bootcamp. In that track, you will polish one module project - we recommend that you proceed to polish the rest of your module projects, followed by your Capstone project. This process can incorporate other things you've learnt in the track, such as Tableau or SQL.
+Once you've completed the Post-Graduation Upskilling Track, you will be well-equipped to polish your projects from your course. In that track, you will polish one module project - we recommend that you proceed to polish the rest of your module projects, followed by your Capstone project.
 
-**Activity:** The [How to Polish a Data Science Project](***TO BE CREATED***) lesson in this track provides more detail about how to approach polishing a project you've created - complete this lesson once you've finished the rest of the content in this track.
+**Activity:** For each of the projects you completed during the program, do the following:
+
+- [Reorganize Your Repo][]
+- [Improve Your Presentation][]
+- Use skills from this track (if appropriate):
+  - Refactor using [SQL][]
+  - Add [R][] or [Tableau][] visualizations
 
 ### New Projects
 
@@ -135,7 +141,7 @@ As you make progress polishing up all your existing projects, you will probably 
 
 ## Conclusion
 
-You have shown that you can develop your skills by graduating from the Data Science bootcamp - now you must learn to do so without the bootcamp structure. The key to this will be for you to develop the habits you will need to continually work towards your goals. We have provided here a roadmap of the work to be done and the routines that will support it. We wish you the best with implementing them!
+You have shown that you can develop your skills by graduating from the Data Science program - now you must learn to do so without the structure. The key to this will be for you to develop the habits you will need to continually work towards your goals. We have provided here a roadmap of the work to be done and the routines that will support it. We wish you the best with implementing them!
 
 [Career Services Commitment]: https://flatironschool.com/career-services-commitment/
 [Weekly Job Search Activity]: https://github.com/learn-co-curriculum/careers-csc-weekly-activity
@@ -143,4 +149,10 @@ You have shown that you can develop your skills by graduating from the Data Scie
 [Google Calendar]: https://calendar.google.com/
 [Set up recurring events]: https://support.google.com/calendar/answer/37115?co=GENIE.Platform%3DDesktop&hl=en
 [add reminders]: https://support.google.com/calendar/answer/6285327?hl=en
+[Post-Graduation Upskilling Overview]: https://github.com/learn-co-curriculum/dsc-postgrad-upskilling-overview
+[Reorganize Your Repo]: https://github.com/learn-co-curriculum/dsc-postgrad-repo-reorg
+[Improve Your Presentation]: https://github.com/learn-co-curriculum/dsc-postgrad-project-presentations
+[SQL]: https://github.com/learn-co-curriculum/dsc-postgrad-sql-refresher
+[R]: https://github.com/learn-co-curriculum/dsc-intro-to-ggplot2
+[Tableau]: https://github.com/learn-co-curriculum/dsc-postgrad-tableau-fundamentals
 [How to Start a New DS Project]: https://github.com/learn-co-curriculum/dsc-postgrad-new-project
