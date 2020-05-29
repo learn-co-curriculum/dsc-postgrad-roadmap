@@ -96,7 +96,7 @@ By establishing a routine and consistently completing many small tasks, you will
 
 | Month | Employer Contacts | Blog Posts | GitHub Commits | Upskilling & Portfolio |
 | :---: | :---: | :---: | :---: | :---: |
-| Month #1 | 32+ contacts made | 4+ blogs posted | 20+ GitHub commits pushed | Post-Grad Upskilling Track complete |
+| Month #1 | 32+ contacts made | 4+ blogs posted | 20+ GitHub commits pushed | Data Science Post-Work Track complete |
 | Month #2 | 64+ contacts made | 8+ blogs posted | 40+ GitHub commits pushed | Polish remaining projects from Mods 1-4, Begin new project search |
 | Month #3 | 96+ contacts made | 12+ blogs posted | 60+ GitHub commits pushed | Polish Capstone project, Finish new project search |
 | Month #4 | 128+ contacts made | 16+ blogs posted | 80+ GitHub commits pushed | Work on new project |
