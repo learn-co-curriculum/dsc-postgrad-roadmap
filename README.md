@@ -1,4 +1,4 @@
-# DS Post-Graduation Roadmap
+# Data Science Post-Work Roadmap
 
 ## Introduction
 
